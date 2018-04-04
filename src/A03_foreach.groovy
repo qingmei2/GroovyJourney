@@ -10,10 +10,14 @@ Stream.of(1, 2, 3, 4)
 })
 
 for (i in 0..4) {
-    println("function print" + i)
+    print "$i"
 }
 
+println()
+
 0.upto(4) { print "$it" }
+
+println()
 
 3.times { print("$it") }
 
