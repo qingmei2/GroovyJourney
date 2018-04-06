@@ -1,3 +1,5 @@
+package dirA
+
 class A07_GroovyBean {
 
     def name = 'qingmei2'

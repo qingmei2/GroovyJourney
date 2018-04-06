@@ -1,4 +1,5 @@
-println "svn help".execute().getClass().name
+package dirA
+//println "svn help".execute().getClass().name
 
 println "groovy -v".execute().text
 

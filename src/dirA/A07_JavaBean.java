@@ -1,3 +1,5 @@
+package dirA;
+
 public class A07_JavaBean {
 
     private String name;

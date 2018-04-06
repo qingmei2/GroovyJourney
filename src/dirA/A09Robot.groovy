@@ -1,3 +1,5 @@
+package dirA
+
 class A09Robot {
 
     def type, height, width

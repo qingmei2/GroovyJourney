@@ -1,3 +1,5 @@
+package dirA
+
 //代替Calendar.getInstance()
 Calendar.instance
 

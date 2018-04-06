@@ -1,3 +1,5 @@
+package dirA
+
 def robot = new A09Robot(type: 'arm', width: 10, height: 40)
 println "$robot.type, $robot.width, $robot.height"
 

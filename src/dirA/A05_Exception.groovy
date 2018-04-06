@@ -1,3 +1,5 @@
+package dirA
+
 openFile('noneExistentFile')
 
 def openFile(fileName) {

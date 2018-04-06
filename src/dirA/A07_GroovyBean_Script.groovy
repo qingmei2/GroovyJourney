@@ -1,3 +1,5 @@
+package dirA
+
 def groovyBean = new A07_GroovyBean(10)
 
 println "year: $groovyBean.year"

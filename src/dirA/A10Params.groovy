@@ -1,3 +1,5 @@
+package dirA
+
 //groovy 可以把方法和构造器形参设置为可选择的
 //但是这些形参必须位于形参列表的末尾
 def log(x, base = 10) {
